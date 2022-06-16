@@ -11,6 +11,8 @@
     ],
     "jsx": "react",
     "newLine": "lf",
+    "strictPropertyInitialization": false,
+    "noUnusedParameters": false,
     "resolveJsonModule": false,
     "noUnusedLocals": false,
     "pretty": true,
@@ -22,12 +24,11 @@
     "stripInternal": true,
     "noImplicitReturns": true,
     "noImplicitOverride": true,
-    "noUnusedParameters": true,
     "useDefineForClassFields": true,
     "noUncheckedIndexedAccess": true,
     "noFallthroughCasesInSwitch": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "noPropertyAccessFromIndexSignature": true,
+    "noPropertyAccessFromIndexSignature": true
   }
 }
