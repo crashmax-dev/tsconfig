@@ -1,0 +1,26 @@
+{
+  "name": "@crashmax/tsconfig",
+  "version": "1.0.0",
+  "description": "TypeScript tsconfig.json",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashmax-dev/tsconfig.git"
+  },
+  "author": {
+    "name": "Vitalij Ryndin",
+    "email": "sys@crashmax.ru",
+    "url": "https://crashmax.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crashmax-dev/tsconfig/issues"
+  },
+  "homepage": "https://github.com/crashmax-dev/tsconfig#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}

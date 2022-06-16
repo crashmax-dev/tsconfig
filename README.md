@@ -1,0 +1,1 @@
+# @crashmax/tsconfig
