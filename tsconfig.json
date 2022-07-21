@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
-    "module": "node16",
-    "moduleResolution": "node16",
-    "moduleDetection": "force",
+    "module": "ESNext",
+    "moduleResolution": "Node",
     "target": "ES2020",
     "lib": [
       "DOM",
