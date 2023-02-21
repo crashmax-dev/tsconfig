@@ -28,9 +28,6 @@
     "noFallthroughCasesInSwitch": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "noPropertyAccessFromIndexSignature": true,
-    "types": [
-      "@total-typescript/ts-reset"
-    ]
+    "noPropertyAccessFromIndexSignature": true
   }
 }

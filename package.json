@@ -22,8 +22,5 @@
   "homepage": "https://github.com/crashmax-dev/tsconfig#readme",
   "engines": {
     "node": ">=14"
-  },
-  "dependencies": {
-    "@total-typescript/ts-reset": "0.3.6"
   }
 }
