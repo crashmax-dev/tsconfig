@@ -23,6 +23,7 @@
     "stripInternal": true,
     "noImplicitReturns": true,
     "noImplicitOverride": true,
+    "verbatimModuleSyntax": true,
     "useDefineForClassFields": true,
     "noUncheckedIndexedAccess": true,
     "noFallthroughCasesInSwitch": true,
